@@ -18,6 +18,14 @@
       "passConfig": true,
       "environments": ["preview", "live", "edit"],
       "includePaths": ["**"]
+    },
+    {
+      "id": "demo-target",
+      "title": "Demo Target",
+      "url": "https://da.live/edit#/rstranieri-adobe/southwest/target-test",
+      "passConfig": true,
+      "environments": ["preview", "live", "edit"],
+      "includePaths": ["**"]
     }
   ]
 }
